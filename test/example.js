@@ -4,4 +4,4 @@ var Printer = require('../lp')
 
 lp.queue('Hello');
 
-lp.queueFile('./test.jpg');
+lp.queueFile('./out.pdf');
