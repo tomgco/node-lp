@@ -1,3 +1,7 @@
 var Printer = require('../lp')
-  , lp = new Printer('/dev/video0')
+  , lp = new Printer()
   ;
+
+lp.queue('Hello');
+
+lp.queueFile('./test.jpg');
