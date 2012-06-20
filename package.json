@@ -12,6 +12,7 @@
   , "lp"
   , "lpr"
   ]
+, "main": "./lp.js"
 , "engine": "~0.6"
 , "dependencies":
   {
