@@ -1,4 +1,4 @@
-{ "name": "lp"
+{ "name": "lp-client"
 , "version": "0.0.1a"
 , "author": "Tom Gallacher"
 , "description": "node-lp is an adapter to the unix lp(1) command allowing files to be subitted for printing or altering a pending job."
