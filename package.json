@@ -1,24 +1,23 @@
-{ "name": "lp-client"
-, "version": "0.0.1a"
-, "author": "Tom Gallacher"
-, "description": "node-lp is an adapter to the unix lp(1) command allowing files to be subitted for printing or altering a pending job."
-, "repository":
-  { "type": "git"
-  , "url": "git://github.com/tomgco/node-lp.git"
-  }
-, "keywords":
-  [ "print"
-  , "cups"
-  , "lp"
-  , "lpr"
-  ]
-, "main": "./lp.js"
-, "engine": "~0.6"
-, "dependencies":
-  {
-  }
-, "devDependencies":
-  { "mocha": "*"
-  , "should": "*"
+{
+  "name": "lp-client",
+  "version": "0.0.2",
+  "author": "Tom Gallacher",
+  "description": "node-lp is an adapter to the unix lp(1) command allowing files to be subitted for printing or altering a pending job.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomgco/node-lp.git"
+  },
+  "keywords": [
+    "print",
+    "cups",
+    "lp",
+    "lpr"
+  ],
+  "main": "./lp.js",
+  "engine": "~0.6",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
   }
 }
