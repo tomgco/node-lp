@@ -1,6 +1,6 @@
 # Node lp
 
-node-lp is an adapter to the unix 'lp(1)' command allowing files to be subitted for printing or altering a pending job. This will only work on Linux at the moment however if anyone wants a windows port then that might happen.
+node-lp is an adapter to the unix 'lp(1)' command allowing files to be submitted for printing or altering a pending job. This will only work on Linux at the moment however if anyone wants a windows port then that might happen.
 
 ## Installation
 
