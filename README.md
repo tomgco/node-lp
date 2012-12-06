@@ -12,9 +12,11 @@ Node-lp can then be installed via NPM
 
 Then, require the module
 
-    var Printer = require('lp')
-      , lp = new Printer([options])
-      ;
+    var lp = require("lp-client");
+    var options = {};
+
+    printer = lp(options);
+    printer.queue ("Hello");
 
 
 ## Usage
