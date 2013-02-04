@@ -15,7 +15,9 @@
   ],
   "main": "./lp.js",
   "engine": "~0.6",
-  "dependencies": {},
+  "dependencies": {
+    "mkdirp": "~0.3.4"
+  },
   "devDependencies": {
     "mocha": "*",
     "should": "*"
