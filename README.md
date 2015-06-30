@@ -8,7 +8,7 @@ Note: you need `cups` installed to use.
 
 Node-lp can then be installed via NPM
 
-    npm install lp
+    npm install lp-client
 
 Then, require the module
 
